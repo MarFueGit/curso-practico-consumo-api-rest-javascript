@@ -1,0 +1,19 @@
+{
+  "name": "curso-practico-consumo-api-rest-javascript",
+  "version": "1.0.0",
+  "description": "curso practico de consumo de api rest con javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarFueGit/curso-practico-consumo-api-rest-javascript.git"
+  },
+  "author": "MarFueGit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarFueGit/curso-practico-consumo-api-rest-javascript/issues"
+  },
+  "homepage": "https://github.com/MarFueGit/curso-practico-consumo-api-rest-javascript#readme"
+}
